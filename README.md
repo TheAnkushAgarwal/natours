@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://natours-xbsh.onrender.com/"><img src="https://github.com/ritiksharmarj/natours/assets/54701022/326dd79a-8751-4d1d-883f-b302cf0461c5" alt="Natours" width="200"></a>
+  <a href="https://natours-site.onrender.com/"></a>
   <br>
   Natours
   <br>
@@ -25,9 +25,9 @@
 
 ## Deployed Version
 
-Live demo (Feel free to visit) 👉 : https://natours-xbsh.onrender.com/
+Live demo (Feel free to visit) 👉 : https://natours-site.onrender.com/
 
-## Key Features
+## Key Features 
 
 - Authentication and Authorization
   - Signup, Login and logout
@@ -37,9 +37,9 @@ Live demo (Feel free to visit) 👉 : https://natours-xbsh.onrender.com/
   - Update username, profile photo, email, and password
 - Credit card payment using Stripe
 
-## Demonstration
+<!-- ## Demonstration
 
-[![Natours Walkthrough](https://img.youtube.com/vi/UljiMtXeFx0/maxresdefault.jpg)](https://www.youtube.com/watch?v=UljiMtXeFx0)
+[![Natours Walkthrough](https://img.youtube.com/vi/UljiMtXeFx0/maxresdefault.jpg)](https://www.youtube.com/watch?v=UljiMtXeFx0) -->
 
 ## How To Use
 
@@ -75,17 +75,17 @@ Before using the API, you need to set the variables in Postman depending on your
 - {{password}} with your user password as value.
 ```
 
-Check [Natours API Documentation](https://documenter.getpostman.com/view/8689170/SVmzvwpY?version=latest) for more info.
+<!-- Check [Natours API Documentation](https://documenter.getpostman.com/view/8689170/SVmzvwpY?version=latest) for more info. -->
 
 <b> API Features: </b>
 
-Tours List 👉 https://natours-xbsh.onrender.com/api/v1/tours
+Tours List 👉 https://natours-site.onrender.com/api/v1/tours
 
-Tours Statistics 👉 https://natours-xbsh.onrender.com/api/v1/tours/tour-stats
+Tours Statistics 👉 https://natours-site.onrender.com/api/v1/tours/tour-stats
 
-Get Top 5 Cheap Tours 👉 https://natours-xbsh.onrender.com/api/v1/tours/top-5-cheap
+Get Top 5 Cheap Tours 👉 https://natours-site.onrender.com/api/v1/tours/top-5-cheap
 
-Get Tours Within Radius 👉 https://natours-xbsh.onrender.com/api/v1/tours/tours-within/200/center/34.098453,-118.096327/unit/mi
+Get Tours Within Radius 👉 https://natours-site.onrender.com/api/v1/tours/tours-within/200/center/34.098453,-118.096327/unit/mi
 
 ## Deployment
 
@@ -158,4 +158,4 @@ Please enjoy and feel free to share your opinion, constructive criticism, or com
 
 ## Acknowledgement
 
-- This project is part of the online course I've taken at Udemy. Thanks to [Jonas Schmedtmann](https://twitter.com/jonasschmedtman) for creating this awesome course!
+- This project is part of the online course I've taken at Udemy. Thanks to [Jonas Schmedtmann](https://twitter.com/jonasschmedtman) for creating this awesome course & special thanks to github.com/ritiksharmarj repository , it help me out in debugging the code as I did had the updated course.
